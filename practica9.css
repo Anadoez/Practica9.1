@@ -1,0 +1,49 @@
+body{
+    background-color: cornsilk;
+    color:blue;
+}
+h1{
+    color:midnightblue;
+    text-align: center;
+    overflow:hidden;
+    background-color: peru;
+    margin:0%;
+    padding:1%;
+}
+h3{
+    color:navy;
+}
+.encabezado{
+    color:steelblue;
+}
+nav{
+    width:75%;
+    margin:auto;
+}
+ol{
+    overflow:hidden;
+    width:30%;
+    list-style-type: none;
+    margin:0.5%;
+}
+li:hover{
+    background-color: wheat;
+}
+.indice{
+    background-color: wheat;
+    padding:0.25%;
+    margin:0.25%;
+    text-align: center;
+}
+nav a{
+    text-decoration:none;
+}
+article{
+    width:70%;
+    margin:auto;
+    background-color: wheat;
+    padding: 2%;
+}
+.drcha{
+    text-align: right;
+}
